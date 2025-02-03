@@ -21,10 +21,8 @@ Feel free to reach out via email:
 
 Or connect with me on:
 
-GitHub
-LinkedIn (https://www.linkedin.com/in/md-abid-hossain-02524214a/))
-😄 Pronouns
-He/Him
+LinkedIn [(https://www.linkedin.com/in/md-abid-hossain-02524214a/)]
+
 
 ⚡ Fun Fact
 "Be your own DevOps engineer; everyone else is too busy debugging their YAML files." 🧑‍💻😂
