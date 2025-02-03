@@ -22,7 +22,7 @@ Feel free to reach out via email:
 Or connect with me on:
 
 GitHub
-LinkedIn (Add your LinkedIn profile link here)
+LinkedIn (https://www.linkedin.com/in/md-abid-hossain-02524214a/))
 😄 Pronouns
 He/Him
 
