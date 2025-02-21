@@ -1,5 +1,5 @@
 👋 Hi, I’m @mohammadabidhossain
-plaintext
+
 DevOps Enthusiast | Docker & Kubernetes Explorer | Lifelong Learner
 
 👀 About Me
@@ -9,12 +9,14 @@ I’m passionate about DevOps and the magic of automating workflows to make life
 Mastering Docker : Building, shipping, and running applications like a pro.
 Exploring Kubernetes : Orchestrating containers like a symphony conductor. 🎶
 Automating everything because repetition is for robots, not humans.
-💞️ Collaboration Ideas
+
+
 Looking to collaborate on:
 
 Open-source projects related to DevOps , CI/CD pipelines , or containerization .
 Building scalable applications with Docker and Kubernetes .
 Sharing knowledge and learning together—because teamwork makes the DevOps dream work! 🤝
+
 📫 How to Reach Me
 Feel free to reach out via email:
 📧 abidmd.hossain@gmail.com
